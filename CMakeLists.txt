@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(lab3 main.cpp
         myStack.hpp
-        myStack.cpp)
+        myStack.cpp
+        unit_tests.cpp)
