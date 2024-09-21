@@ -4,4 +4,5 @@ project(lab3)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(lab3 main.cpp
-        myStack.hpp)
+        myStack.hpp
+        myStack.cpp)
